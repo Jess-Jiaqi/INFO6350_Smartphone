@@ -1,1 +1,1 @@
-For the WeatherAPI project, you should run 'pod install' first.
+For the WeatherAPI project, please run 'pod install' first.
